@@ -1,0 +1,14 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Цель работы}{2}{section.1}%
+\contentsline {section}{\numberline {2}Задание}{2}{section.2}%
+\contentsline {section}{\numberline {3}Построение интерполяционного многочлена по равноотстоящим узлам}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Интерполяционные многочлены}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Графики интерполяционных многочленов:}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Графики погрешностей}{4}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Построение интерполяционного многочлена по чебышёвским узлам}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Интерполяционные многочлены}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Графики интерполяционных многочленов:}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Графики погрешностей:}{7}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Графики производных}{8}{section.5}%
+\contentsline {section}{\numberline {6}Оценка погрешностей}{9}{section.6}%
+\contentsline {section}{\numberline {7}Код сценариев и функции}{10}{section.7}%
